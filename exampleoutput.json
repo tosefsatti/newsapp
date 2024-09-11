@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Rupert Murdoch: Media tycoon marries Elena Zhukova",
+      "description": "The 93-year-old tied the knot with his new wife Elena Zhukova in a ceremony at his Californian vineyard.",
+      "url": "https://www.bbc.co.uk/news/articles/c9ee487k1eyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/50d3/live/9702cf60-20e8-11ef-a3ab-e73c00cc3104.jpg",
+      "publishedAt": "2024-06-03T16:37:11.9776874Z",
+      "content": "Mr Murdoch and Ms Zhukova are said to have met at a party hosted by one of his ex-wives, Chinese-born entrepreneur Wendi Deng.\r\nHis other former spouses are Australian flight attendant Patricia Booke… [+1204 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Gaza war: Ceasefire plan turns into deadly game of survival",
+      "description": "The plan outlined by President Biden could end the war, but both sides want to get their way.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ppn8nyv1do",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3e7a/live/806a33f0-21ac-11ef-a13a-0b8c563da930.jpg",
+      "publishedAt": "2024-06-03T16:22:18.6182649Z",
+      "content": "For the leaders of both Hamas and Israel, ending the war in Gaza has become a deadly game of survival.\r\nThe terms on which the war finally ends could largely determine their political future and thei… [+4510 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "President-elect Claudia Sheinbaum breaks Mexico's political glass ceiling",
+      "description": "Given Mexico’s deeply ingrained patriarchy and entrenched machismo, Claudia Sheinbaum's victory is no small feat.",
+      "url": "https://www.bbc.co.uk/news/articles/cq552vz5y5zo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b1e8/live/5aa7b610-20fd-11ef-81a8-b7bd5e174a40.jpg",
+      "publishedAt": "2024-06-03T16:07:22.6029209Z",
+      "content": "On the stump, she often repeated her basic premise: that she would build the \"second floor\" of the \"Fourth Transformation\" that is, the political project of her ally, Mr López Obrador.\r\nPresident Lóp… [+3710 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Inside Hunter Biden's federal gun charges case in Delaware",
+      "description": "Jury selection will start on Monday in the first criminal trial of a child of a sitting president.",
+      "url": "https://www.bbc.co.uk/news/articles/c4nnr9945vmo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8c73/live/b0b06b80-21af-11ef-85ff-15f7ec933d42.jpg",
+      "publishedAt": "2024-06-03T14:07:17.0238904Z",
+      "content": "To convict Mr Biden, prosecutors will have to convince jurors that he knowingly made false statements on the form in a bid to deceive the store that sold him the pistol. \r\nAdditionally, they will hav… [+1518 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "France: Russia link suspected in Eiffel Tower coffin mystery",
+      "description": "Officials believe Moscow could be behind a stunt in which coffins filled with plaster were left near the Eiffel Tower.",
+      "url": "https://www.bbc.co.uk/news/articles/cldd7n97dvro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c794/live/4dd93b50-21a4-11ef-a52c-c331d140cb33.jpg",
+      "publishedAt": "2024-06-03T13:52:14.3064491Z",
+      "content": "French intelligence officials believe Russia is behind a stunt in which five coffins draped in a French flag and bearing the inscription French soldiers of Ukraine were deposited near the Eiffel Towe… [+2409 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "MrBeast: YouTuber topples T-Series for most subscribers",
+      "description": "Jimmy Donaldson, already the most-subscribed individual on the platform, has claimed another title.",
+      "url": "https://www.bbc.co.uk/news/articles/c8440yxd92xo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/017d/live/8703abf0-2180-11ef-9628-ff2abcc9602e.jpg",
+      "publishedAt": "2024-06-03T10:22:14.8685401Z",
+      "content": "MrBeast becoming the most subscribed-to individual and channel on YouTube means he has extended his grip, and wealth, on the platform even further. \r\nHe has several other channels dedicated to his ga… [+1056 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "'Russia now is like 1984': Inside a Russian dystopian library",
+      "description": "Deep in Putin's Russia, Ivanovo's George Orwell library is still lending books on totalitarianism.",
+      "url": "https://www.bbc.co.uk/news/articles/ckrr1k1xl0lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0dd4/live/82b5d620-1dd1-11ef-80aa-699d54c46324.jpg",
+      "publishedAt": "2024-06-03T09:07:20.7430964Z",
+      "content": "Inside, the tiny library offers a selection of books on dystopian worlds and the dangers of totalitarianism. \r\nThere are multiple copies of Orwells classic novel Nineteen Eighty-Four; the story in wh… [+1193 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Missing Cryptoqueen Ruja Ignatova’s links to Bulgaria underworld",
+      "description": "The BBC investigates Ruja Ignatova’s close ties to a suspected organised crime boss.",
+      "url": "https://www.bbc.co.uk/news/articles/c2llvlx2ez9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/aeb1/live/83273320-1e61-11ef-a13a-0b8c563da930.jpg",
+      "publishedAt": "2024-06-03T05:52:16.3211694Z",
+      "content": "When we interviewed Mr Schneider at his home in France, he was under house arrest, awaiting extradition to the US in connection to the OneCoin scam. He was not, however, prepared to reveal names.\r\nI'… [+2508 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Could a housing revolution transform Canadian cities?",
+      "description": "The Canadian government is pushing hard for cities to build more \"fourplex\" apartment blocks.",
+      "url": "https://www.bbc.co.uk/news/articles/cjjjvnq4665o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/275e/live/1ec77880-1de5-11ef-a13a-0b8c563da930.jpg",
+      "publishedAt": "2024-06-02T23:52:13.8155034Z",
+      "content": "While Toronto is now moving forward with fourplexes, its housing history is a useful guide to the issue. Put simply, new-build fourplexes were banned in the city from 1929 to 2023.\r\nInstead, under pr… [+1167 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Donald Trump says hush-money trial 'very hard' on wife Melania",
+      "description": "The former president says he is \"okay\" with the possibility of being jailed after his New York conviction.",
+      "url": "https://www.bbc.co.uk/news/articles/c4nndr47kgzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/35b4/live/336107f0-20f8-11ef-8254-b59b98458d53.jpg",
+      "publishedAt": "2024-06-02T17:07:13.5040571Z",
+      "content": "Donald Trump has said his historic trial and criminal conviction have been \"very hard\" for his wife, former First Lady Melania Trump. \r\nLast week, jurors found Mr Trump guilty of falsifying business … [+2404 chars]"
+    }
+  ]
+}
