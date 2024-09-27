@@ -19,15 +19,25 @@ const News = (props) =>{
     props.setProgress(10);
     const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=76af9c44fdde45da994579f4a9ffad96&page=${page}&pageSize=${props.pageSize}`;
     setLoading(true);
+    try{
     let data = await fetch(url);
     props.setProgress(30);
     let parsedData = await data.json();
-    console.log(parsedData);
+   
     props.setProgress(70);
+    if (parsedData.articles) {
+      setArticles(parsedData.articles);
+      setTotalResults(parsedData.totalResults);
+      
+    } else {
+      console.error("Error: Articles not found in parsedData", parsedData);
+    }
+  } catch(error){
+    console.error("Error fetching more data:", error);
+  }
+  setLoading(false);
 
-setArticles(parsedData.articles);
-setTotalResults(parsedData.totalResults);
-setLoading(false);
+
 
     
     props.setProgress(100);
@@ -42,14 +52,20 @@ setLoading(false);
         const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=76af9c44fdde45da994579f4a9ffad96&page=${page+1}&pageSize=${props.pageSize}`;
         setPage(page+1);
         setLoading(true);
-        let data = await fetch(url);
-        let parsedData = await data.json();
-        console.log(parsedData);
-
-        setArticles(articles.concat(parsedData.articles));
-        setTotalResults(parsedData.totalResults);
-        setLoading(false);
-        
+        try {
+          let data = await fetch(url);
+          let parsedData = await data.json();
+      
+          if (parsedData.articles) {
+            setArticles(articles.concat(parsedData.articles));
+            setTotalResults(parsedData.totalResults);
+          } else {
+            console.error("Error: Articles not found in parsedData", parsedData);
+          }
+        }catch (error) {
+            console.error("Error fetching more data:", error);
+          }
+          setLoading(false);
       }
     
     return (
